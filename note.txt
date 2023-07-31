@@ -4,4 +4,5 @@
     + Commit (git commit -m "Your messeges")
     + Push : 1st _ git push -u origin master
              2nd > ~ git push 
-    
+- Create a new branch: git checkout -b <your new branch>
+- Push code to new branch git push -u origin <new branch>
