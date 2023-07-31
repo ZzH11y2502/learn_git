@@ -1,0 +1,7 @@
+- Khoi tao  repository : git init
+- Push code tu local -> remote: 3 steps
+    + Select (git add -A) (check status git status)
+    + Commit (git commit -m "Your messeges")
+    + Push : 1st _ git push -u origin master
+             2nd > ~ git push 
+    
