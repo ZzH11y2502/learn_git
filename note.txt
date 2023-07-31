@@ -4,5 +4,8 @@
     + Commit (git commit -m "Your messeges")
     + Push : 1st _ git push -u origin master
              2nd > ~ git push 
+
+* Branch*
 - Create a new branch: git checkout -b <your new branch>
+- Change branch: git checkout <Branch you want>
 - Push code to new branch git push -u origin <new branch>
