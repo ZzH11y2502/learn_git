@@ -1,11 +1,11 @@
 - Khoi tao  repository : git init
 - Push code tu local -> remote: 3 steps
-    + Select (git add -A) (check status git status)
+    + Select (git add -A : Update only new file ) (git add . : Update all file) (check status git status)
     + Commit (git commit -m "Your messeges")
     + Push : 1st _ git push -u origin master
              2nd > ~ git push 
 
-* Branch*
+*branch*
 - Create a new branch: git checkout -b <your new branch>
-- Change branch: git checkout <Branch you want>
 - Push code to new branch git push -u origin <new branch>
+- git merge <your new branch>
